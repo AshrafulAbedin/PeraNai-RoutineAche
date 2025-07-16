@@ -1,4 +1,4 @@
-# 📚⏰ PeraNai-RoutineAche
+# PeraNai-RoutineAche
 
 An intelligent educational routine management platform that helps students organize their daily schedules, class routines, and study notes efficiently.
 
